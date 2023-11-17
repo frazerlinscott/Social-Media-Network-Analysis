@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="g_type" for="graph" attr.name="type" attr.type="string"/>
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_type" for="node" attr.name="type" attr.type="string"/>
+  <key id="v_user_id" for="node" attr.name="user_id" attr.type="string"/>
+  <key id="v_screen_name" for="node" attr.name="screen_name" attr.type="string"/>
+  <key id="e_status_id" for="edge" attr.name="status_id" attr.type="string"/>
+  <key id="e_created_at" for="edge" attr.name="created_at" attr.type="string"/>
+  <key id="e_is_retweet" for="edge" attr.name="is_retweet" attr.type="boolean"/>
+  <key id="e_is_quote" for="edge" attr.name="is_quote" attr.type="boolean"/>
+  <key id="e_is_reply" for="edge" attr.name="is_reply" attr.type="boolean"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <data key="g_type">twitter</data>
+    <node id="n0">
+      <data key="v_name">@postmalone</data>
+      <data key="v_type">user</data>
+      <data key="v_user_id">NA</data>
+      <data key="v_screen_name">postmalone</data>
+    </node>
+  </graph>
+</graphml>

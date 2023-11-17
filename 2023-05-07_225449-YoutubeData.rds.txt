@@ -1,0 +1,9 @@
+collect.youtube
+Mon May 08 08:53:11 2023
+2023-05-07 22:53:11 UTC
+
+videoIDs = c("IzPQ_jA00bk", "7aekxC_monc", "wXhTHyIgQ_U", "ApXoWvfEYVU", "au2n7VVGv_c", "JXxAnZaZrG0", "hf-BEEmEodw", "yzInC0lHIMM", "WABOrIYhR94", "SC4xMk98Pdc")
+writeToFile = TRUE
+maxComments = 500
+verbose = TRUE
+Sun May 07 22:54:49 2023

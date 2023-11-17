@@ -1,0 +1,19 @@
+collect.twitter
+Mon May 08 17:05:57 2023
+2023-05-08 07:05:57 UTC
+
+searchTerm = Bruno Mars
+searchType = recent
+numTweets = 5000
+lang = en
+includeRetweets = TRUE
+writeToFile = TRUE
+verbose = TRUE
+
+tweet        | status_id           | created            
+--------------------------------------------------------
+Latest Obs   | 1655468957506101248 | 2023-05-08 07:05:31
+Earliest Obs | 1654364665454137346 | 2023-05-05 05:57:27
+
+
+Mon May 08 07:07:35 2023
